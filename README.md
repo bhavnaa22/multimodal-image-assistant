@@ -5,6 +5,10 @@ A dark-themed web application for **image captioning** and **visual question ans
 Users upload an image, generate a natural language caption, and ask free-form questions about the image—all through a simple, interactive interface.
 
 ---
+## 🔗 Live Demo
+
+**Try the app here:** [Multimodal Image Assistant on Hugging Face Spaces](https://huggingface.co/spaces/Bh2277/multimodal-image-assistant)
+
 
 ## ✨ Features
 
